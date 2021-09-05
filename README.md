@@ -3,3 +3,13 @@
 
 real time chat app made with react node and socket.io
 website URL => https://gracious-noether-04fd0e.netlify.app
+
+tech stack used for this project
+
+backend - node js
+
+frontend - react js
+
+comm - socket.io
+
+hosting - heroku (backend), netlify (frontend)
